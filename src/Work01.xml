@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE web-app SYSTEM "web-app_2_3.dtd">
+<web-app>
+    <servlet>
+        <servlet-name>张三</servlet-name>
+        <description>Java</description>
+        <servlet-class>K9501</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>李四</servlet-name>
+        <url-pattern>王五</url-pattern>
+    </servlet-mapping>
+    <welcome-file-list>
+        <welcome-file>赵六</welcome-file>
+    </welcome-file-list>
+</web-app>
